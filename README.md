@@ -1,0 +1,1 @@
+# ngon_ngu_ki_hieu_cho_nguoi_khuyet_tat
