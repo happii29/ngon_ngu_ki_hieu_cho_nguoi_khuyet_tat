@@ -1,1 +1,2 @@
-# ngon_ngu_ki_hieu_cho_nguoi_khuyet_tat
+Đề tài: Xây dựng hệ thống nhận diện kí tự chữ cái cho người khuyết tật
+Môn: Nhập môn Khoa học dữ liệu
